@@ -1,0 +1,13 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+  body {
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(304, 74%, 14%);
+  }
